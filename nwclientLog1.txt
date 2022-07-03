@@ -1,0 +1,30 @@
+nwsync: reconfigured successfully
+GOG: Authentication failed: 2
+[Sun Jul  3 11:02:35]Server Starting Up: 10 Second Heartbeat logging has been disabled
+[Sun Jul  3 11:02:35]---- Server Options ----
+Max Players: 6
+Char Levels: (1-40)
+Player Password: NO
+DM Login Enabled: YES
+Server Admin Login Enabled: YES
+Post Game To Internet: NO
+Game Type: Action
+Difficulty: 2
+PVP Setting: PARTY
+Vault: LOCAL
+Only One Party: YES
+Enforce Legal Characters: NO
+Item Level Restrictions: NO
+Player pausing: ENABLED
+Auto Reload When Empty: On
+Auto Save: Enabled
+Saving Characters in Saved Game
+---- End Server Options ----
+[Sun Jul  3 11:02:36] dunahan [] () Joined as Server Admin 1
+[Sun Jul  3 11:02:36] dunahan () Joined as Player 1
+[Sun Jul  3 11:02:36] Loading Module: nwscript_json_test
+[CHAT WINDOW TEXT] [Sun Jul  3 11:02:37] Gegenstand erhalten: PC Properties
+[CHAT WINDOW TEXT] [Sun Jul  3 11:02:38] dunahan ist als Spieler beigetreten.
+[CHAT WINDOW TEXT] [Sun Jul  3 11:02:38] _temp_|{"ARE":{"type":"struct","value":{"ChanceLightning":{"type":"int","value":0},"ChanceRain":{"type":"int","value":0},"ChanceSnow":{"type":"int","value":0},"Comments":{"type":"cexostring","value":""},"Creator_ID":{"type":"dword","value":4294967295},"DayNightCycle":{"type":"byte","value":1},"Flags":{"type":"dword","value":4},"FogClipDist":{"type":"float","value":45.0},"Height":{"type":"int","value":2},"ID":{"type":"int","value":-1},"IsNight":{"type":"byte","value":0},"LightingScheme":{"type":"byte","value":0},"LoadScreenID":{"type":"word","value":0},"ModListenCheck":{"type":"int","value":0},"ModSpotCheck":{"type":"int","value":0},"MoonAmbientColor":{"type":"dword","value":0},"MoonDiffuseColor":{"type":"dword","value":13132900},"MoonFogAmount":{"type":"byte","value":0},"MoonFogColor":{"type":"dword","value":6566450},"MoonShadows":{"type":"byte","value":1},"Name":{"type":"cexolocstring","value":{"2":"_temp_"}},"NoRest":{"type":"byte","value":0},"OnEnter":{"type":"resref","value":""},"OnExit":{"type":"resref","value":""},"OnHeartbeat":{"type":"resref","value":""},"OnUserDefined":{"type":"resref","value":""},"PlayerVsPlayer":{"type":"byte","value":3},"ResRef":{"type":"resref","value":"_temp_"},"ShadowOpacity":{"type":"byte","value":50},"SunAmbientColor":{"type":"dword","value":6566450},"SunDiffuseColor":{"type":"dword","value":16777215},"SunFogAmount":{"type":"byte","value":0},"SunFogColor":{"type":"dword","value":9535080},"SunShadows":{"type":"byte","value":1},"Tag":{"type":"cexostring","value":"_temp_"},"Tile_List":{"type":"list","value":[{"Tile_AnimLoop1":{"type":"byte","value":1},"Tile_AnimLoop2":{"type":"byte","value":1},"Tile_AnimLoop3":{"type":"byte","value":1},"Tile_Height":{"type":"int","value":0},"Tile_ID":{"type":"int","value":109},"Tile_MainLight1":{"type":"byte","value":0},"Tile_MainLight2":{"type":"byte","value":0},"Tile_Orientation":{"type":"int","value":3},"Tile_ReplaceTex":{"type":"byte","value":1},"Tile_SrcLight1":{"type":"byte","value":0},"Tile_SrcLight2":{"type":"byte","value":0},"__struct_id":1},{"Tile_AnimLoop1":{"type":"byte","value":1},"Tile_AnimLoop2":{"type":"byte","value":1},"Tile_AnimLoop3":{"type":"byte","value":1},"Tile_Height":{"type":"int","value":0},"Tile_ID":{"type":"int","value":126},"Tile_MainLight1":{"type":"byte","value":0},"Tile_MainLight2":{"type":"byte","value":0},"Tile_Orientation":{"type":"int","value":0},"Tile_ReplaceTex":{"type":"byte","value":1},"Tile_SrcLight1":{"type":"byte","value":0},"Tile_SrcLight2":{"type":"byte","value":0},"__struct_id":1},{"Tile_AnimLoop1":{"type":"byte","value":1},"Tile_AnimLoop2":{"type":"byte","value":1},"Tile_AnimLoop3":{"type":"byte","value":1},"Tile_Height":{"type":"int","value":0},"Tile_ID":{"type":"int","value":115},"Tile_MainLight1":{"type":"byte","value":0},"Tile_MainLight2":{"type":"byte","value":0},"Tile_Orientation":{"type":"int","value":1},"Tile_ReplaceTex":{"type":"byte","value":1},"Tile_SrcLight1":{"type":"byte","value":0},"Tile_SrcLight2":{"type":"byte","value":0},"__struct_id":1},{"Tile_AnimLoop1":{"type":"byte","value":1},"Tile_AnimLoop2":{"type":"byte","value":1},"Tile_AnimLoop3":{"type":"byte","value":1},"Tile_Height":{"type":"int","value":0},"Tile_ID":{"type":"int","value":125},"Tile_MainLight1":{"type":"byte","value":0},"Tile_MainLight2":{"type":"byte","value":0},"Tile_Orientation":{"type":"int","value":0},"Tile_ReplaceTex":{"type":"byte","value":1},"Tile_SrcLight1":{"type":"byte","value":0},"Tile_SrcLight2":{"type":"byte","value":0},"__struct_id":1}]},"Tileset":{"type":"resref","value":"ttr01"},"Version":{"type":"int","value":3},"Width":{"type":"int","value":2},"WindPower":{"type":"int","value":0},"__struct_id":0}},"GIT":{"type":"struct","value":{"AreaEffectList":{"type":"list","value":[]},"AreaProperties":{"type":"struct","value":{"AmbientSndDay":{"type":"int","value":51},"AmbientSndDayVol":{"type":"int","value":32},"AmbientSndNight":{"type":"int","value":51},"AmbientSndNitVol":{"type":"int","value":32},"DisplayName":{"type":"cexostring","value":""},"MoonFogAmount":{"type":"byte","value":0},"MoonFogColor":{"type":"dword","value":6566450},"MusicBattle":{"type":"int","value":34},"MusicDay":{"type":"int","value":1},"MusicDelay":{"type":"int","value":90000},"MusicNight":{"type":"int","value":3},"SkyBox":{"type":"byte","value":0},"SunFogAmount":{"type":"byte","value":0},"SunFogColor":{"type":"dword","value":9535080},"__struct_id":100}},"Creature List":{"type":"list","value":[]},"CurrentWeather":{"type":"byte","value":0},"Door List":{"type":"list","value":[]},"Encounter List":{"type":"list","value":[]},"List":{"type":"list","value":[]},"Placeable List":{"type":"list","value":[]},"SoundList":{"type":"list","value":[]},"StoreList":{"type":"list","value":[]},"TriggerList":{"type":"list","value":[]},"VarTable":{"type":"list","value":[]},"WaypointList":{"type":"list","value":[]},"WeatherStarted":{"type":"byte","value":0},"__struct_id":1}},"__data_type":"CAF "}
+[CHAT WINDOW TEXT] [Sun Jul  3 11:02:38] [Server]Ihr befindet Euch jetzt in einem PvP-Gebiet.
+[CHAT WINDOW TEXT] [Sun Jul  3 11:02:54] PAUSENMODUS AN
