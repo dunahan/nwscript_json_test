@@ -12,6 +12,8 @@ object GetAreaByTag(string sTag)
   return OBJECT_INVALID;
 }
 
+// this gets a specific area by tag and encodes to a json string
+
 void main()
 {
   if (!GetIsPC(GetEnteringObject()))  return;
