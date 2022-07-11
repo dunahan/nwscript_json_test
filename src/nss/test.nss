@@ -6,7 +6,7 @@
 void main()
 {
   object oArea = GetAreaFromLocation(GetStartingLocation());
-  json jArea = ObjectToJson(oAreaa);
+  json jArea = ObjectToJson(oArea);
   
   jArea = GffReplaceInt(jArea, "ARE/Value/Heigth", 20);
   jArea = GffReplaceInt(jArea, "ARE/Value/Width", 20);
