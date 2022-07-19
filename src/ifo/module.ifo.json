@@ -81,7 +81,15 @@
   },
   "Mod_HakList": {
     "type": "list",
-    "value": []
+    "value": [
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwscript_json"
+        }
+      }
+    ]
   },
   "Mod_IsSaveGame": {
     "type": "byte",

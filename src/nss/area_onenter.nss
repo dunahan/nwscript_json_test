@@ -19,5 +19,8 @@ void main()
   if (!GetIsPC(GetEnteringObject()))  return;
 
   json jArea = ObjectToJson(GetAreaByTag("_temp_"), TRUE);
+  json jPoint = JsonPointer(jArea, "/Tile_List");
+
   SendMessageToPC(GetFirstPC(), GetName(GetAreaByTag("_temp_")) +"|"+ JsonDump(jArea));
+  SendMessageToPC(GetFirstPC(), JsonDump(jPoint));
 }
