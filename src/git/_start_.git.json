@@ -270,36 +270,17 @@
           "type": "byte",
           "value": 0
         },
-        "VisualTransform": {
-          "__struct_id": 6,
-          "type": "struct",
-          "value": {
-            "__struct_id": 6,
-            "ScaleX": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleY": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleZ": {
-              "type": "float",
-              "value": 0.25
-            }
-          }
-        },
         "Will": {
           "type": "byte",
           "value": 0
         },
         "X": {
           "type": "float",
-          "value": 15.0
+          "value": 16.5
         },
         "Y": {
           "type": "float",
-          "value": 15.0
+          "value": 16.25
         },
         "Z": {
           "type": "float",
@@ -514,36 +495,17 @@
           "type": "byte",
           "value": 0
         },
-        "VisualTransform": {
-          "__struct_id": 6,
-          "type": "struct",
-          "value": {
-            "__struct_id": 6,
-            "ScaleX": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleY": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleZ": {
-              "type": "float",
-              "value": 0.25
-            }
-          }
-        },
         "Will": {
           "type": "byte",
           "value": 0
         },
         "X": {
           "type": "float",
-          "value": 15.0
+          "value": 16.5
         },
         "Y": {
           "type": "float",
-          "value": 12.5
+          "value": 13.75
         },
         "Z": {
           "type": "float",
@@ -758,36 +720,17 @@
           "type": "byte",
           "value": 0
         },
-        "VisualTransform": {
-          "__struct_id": 6,
-          "type": "struct",
-          "value": {
-            "__struct_id": 6,
-            "ScaleX": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleY": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleZ": {
-              "type": "float",
-              "value": 0.25
-            }
-          }
-        },
         "Will": {
           "type": "byte",
           "value": 0
         },
         "X": {
           "type": "float",
-          "value": 12.5
+          "value": 14.0
         },
         "Y": {
           "type": "float",
-          "value": 15.0
+          "value": 16.25
         },
         "Z": {
           "type": "float",
@@ -1002,36 +945,17 @@
           "type": "byte",
           "value": 0
         },
-        "VisualTransform": {
-          "__struct_id": 6,
-          "type": "struct",
-          "value": {
-            "__struct_id": 6,
-            "ScaleX": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleY": {
-              "type": "float",
-              "value": 0.25
-            },
-            "ScaleZ": {
-              "type": "float",
-              "value": 0.25
-            }
-          }
-        },
         "Will": {
           "type": "byte",
           "value": 0
         },
         "X": {
           "type": "float",
-          "value": 12.5
+          "value": 14.0
         },
         "Y": {
           "type": "float",
-          "value": 12.5
+          "value": 13.75
         },
         "Z": {
           "type": "float",
