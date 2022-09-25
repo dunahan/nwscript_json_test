@@ -147,7 +147,7 @@
         "LocName": {
           "type": "cexolocstring",
           "value": {
-            "4": "Test001"
+            "4": "Loc_10_10"
           }
         },
         "OnClick": {
@@ -232,7 +232,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "Test001"
+          "value": "Loc_10_10"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -268,7 +268,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
@@ -372,7 +372,7 @@
         "LocName": {
           "type": "cexolocstring",
           "value": {
-            "4": "Test001"
+            "4": "Loc_10_00"
           }
         },
         "OnClick": {
@@ -457,7 +457,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "Test001"
+          "value": "Loc_10_00"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -493,7 +493,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
@@ -597,7 +597,7 @@
         "LocName": {
           "type": "cexolocstring",
           "value": {
-            "4": "Test001"
+            "4": "Loc_00_10"
           }
         },
         "OnClick": {
@@ -682,7 +682,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "Test001"
+          "value": "Loc_00_10"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -718,7 +718,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
@@ -822,7 +822,7 @@
         "LocName": {
           "type": "cexolocstring",
           "value": {
-            "4": "Test001"
+            "4": "Loc_00_00"
           }
         },
         "OnClick": {
@@ -907,7 +907,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "Test001"
+          "value": "Loc_00_00"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -943,7 +943,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
